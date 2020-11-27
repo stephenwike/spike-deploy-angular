@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "spike-deploy-angular"
+    }
+  },
+  "defaultProject": "spike-deploy-angular",
+  "cli": {
+    "analytics": false
+  }
 }
